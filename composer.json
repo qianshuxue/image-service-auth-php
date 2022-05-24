@@ -1,0 +1,21 @@
+{
+    "name": "imageservice/dev",
+    "description": "token",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qsx",
+            "email": "346156848@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+	"autoload": {
+        "psr-4": {
+            "Composer\\": "src/"
+        }
+    }
+}
